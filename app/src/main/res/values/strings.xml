@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mobile Developer Intern Suitmedia</string>
+
+    // First Screen
+    <string name="text_name">Name</string>
+    <string name="text_palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+
+    // Second Screen
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="name_template">%s</string>
+
+    // Third Screen
+    <string name="third_screen">Third Screen</string>
+    <string name="name_user">Firstname Lastname</string>
+    <string name="image_user">Image User</string>
+
+</resources>
